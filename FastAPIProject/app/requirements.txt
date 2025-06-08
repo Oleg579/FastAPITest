@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlalchemy==2.0.15  # Для работы с SQL-базами
+psycopg2-binary==2.9.6  # Для PostgreSQL
+asyncpg==0.27.0  # Асинхронный драйвер PostgreSQL
+python-jose==3.3.0  # Для JWT-аутентификации
+passlib==1.7.4  # Для хеширования паролей
